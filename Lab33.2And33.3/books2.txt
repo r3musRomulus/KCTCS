@@ -1,0 +1,6 @@
+Another Roadside Attraction,Tom Robbins,393,13.99,FICTION,1971
+Slaughterhouse Five,Kurt Vonnegut,240,17.39,FICTION,1969
+The Silmarillion,J.R.R. Tolkien,442,14.49,FICTION,1977
+Go Set a Watchman,Harper Lee,288,11.00,FICTION,2015
+Head First SQL,Lynn Beighley,608,29.99,TECHNICAL,2011
+The Science of Yoga,Ann Swanson,224,17.99,EXERCISE,2019
